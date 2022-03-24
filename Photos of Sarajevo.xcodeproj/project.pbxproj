@@ -13,6 +13,19 @@
 		593252D127CFFC6200DE0E3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 593252CF27CFFC6200DE0E3B /* Main.storyboard */; };
 		593252D327CFFC6400DE0E3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 593252D227CFFC6400DE0E3B /* Assets.xcassets */; };
 		593252D627CFFC6400DE0E3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 593252D427CFFC6400DE0E3B /* LaunchScreen.storyboard */; };
+		593252F527D00A0500DE0E3B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 593252F427D00A0500DE0E3B /* DetailViewController.swift */; };
+		59F18DA527D0D6750081BA61 /* Sarajevo - Hrasno.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9927D0D6750081BA61 /* Sarajevo - Hrasno.jpg */; };
+		59F18DA627D0D6750081BA61 /* Sarajevo - Ramazan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9A27D0D6750081BA61 /* Sarajevo - Ramazan.jpg */; };
+		59F18DA727D0D6750081BA61 /* Sarajevo - SFF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9B27D0D6750081BA61 /* Sarajevo - SFF.jpg */; };
+		59F18DA827D0D6750081BA61 /* Sarajevo - Minaret.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9C27D0D6750081BA61 /* Sarajevo - Minaret.jpg */; };
+		59F18DA927D0D6750081BA61 /* Sarajevo - Inat Kuća.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9D27D0D6750081BA61 /* Sarajevo - Inat Kuća.jpg */; };
+		59F18DAA27D0D6750081BA61 /* Sarajevo - Vitraž.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9E27D0D6750081BA61 /* Sarajevo - Vitraž.jpg */; };
+		59F18DAB27D0D6750081BA61 /* Sarajevo - Kovači.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18D9F27D0D6750081BA61 /* Sarajevo - Kovači.jpg */; };
+		59F18DAC27D0D6750081BA61 /* Sarajevo - Sebilj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18DA027D0D6750081BA61 /* Sarajevo - Sebilj.jpg */; };
+		59F18DAD27D0D6750081BA61 /* Sarajevo - Aeril Winter 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18DA127D0D6750081BA61 /* Sarajevo - Aeril Winter 2.jpg */; };
+		59F18DAE27D0D6750081BA61 /* Sarajevo - Zalazak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18DA227D0D6750081BA61 /* Sarajevo - Zalazak.jpg */; };
+		59F18DAF27D0D6750081BA61 /* Sarajevo - Aeril Winter 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18DA327D0D6750081BA61 /* Sarajevo - Aeril Winter 1.jpg */; };
+		59F18DB027D0D6750081BA61 /* Sarajevo - Katedrala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59F18DA427D0D6750081BA61 /* Sarajevo - Katedrala.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		593252D227CFFC6400DE0E3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		593252D527CFFC6400DE0E3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		593252D727CFFC6400DE0E3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		593252F427D00A0500DE0E3B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		59F18D9927D0D6750081BA61 /* Sarajevo - Hrasno.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Hrasno.jpg"; sourceTree = "<group>"; };
+		59F18D9A27D0D6750081BA61 /* Sarajevo - Ramazan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Ramazan.jpg"; sourceTree = "<group>"; };
+		59F18D9B27D0D6750081BA61 /* Sarajevo - SFF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - SFF.jpg"; sourceTree = "<group>"; };
+		59F18D9C27D0D6750081BA61 /* Sarajevo - Minaret.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Minaret.jpg"; sourceTree = "<group>"; };
+		59F18D9D27D0D6750081BA61 /* Sarajevo - Inat Kuća.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Inat Kuća.jpg"; sourceTree = "<group>"; };
+		59F18D9E27D0D6750081BA61 /* Sarajevo - Vitraž.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Vitraž.jpg"; sourceTree = "<group>"; };
+		59F18D9F27D0D6750081BA61 /* Sarajevo - Kovači.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Kovači.jpg"; sourceTree = "<group>"; };
+		59F18DA027D0D6750081BA61 /* Sarajevo - Sebilj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Sebilj.jpg"; sourceTree = "<group>"; };
+		59F18DA127D0D6750081BA61 /* Sarajevo - Aeril Winter 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Aeril Winter 2.jpg"; sourceTree = "<group>"; };
+		59F18DA227D0D6750081BA61 /* Sarajevo - Zalazak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Zalazak.jpg"; sourceTree = "<group>"; };
+		59F18DA327D0D6750081BA61 /* Sarajevo - Aeril Winter 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Aeril Winter 1.jpg"; sourceTree = "<group>"; };
+		59F18DA427D0D6750081BA61 /* Sarajevo - Katedrala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarajevo - Katedrala.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +85,33 @@
 				593252C927CFFC6200DE0E3B /* AppDelegate.swift */,
 				593252CB27CFFC6200DE0E3B /* SceneDelegate.swift */,
 				593252CD27CFFC6200DE0E3B /* ViewController.swift */,
+				593252F427D00A0500DE0E3B /* DetailViewController.swift */,
 				593252CF27CFFC6200DE0E3B /* Main.storyboard */,
 				593252D227CFFC6400DE0E3B /* Assets.xcassets */,
 				593252D427CFFC6400DE0E3B /* LaunchScreen.storyboard */,
 				593252D727CFFC6400DE0E3B /* Info.plist */,
+				59F18D9827D0D6750081BA61 /* Content */,
 			);
 			path = "Photos of Sarajevo";
+			sourceTree = "<group>";
+		};
+		59F18D9827D0D6750081BA61 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				59F18D9927D0D6750081BA61 /* Sarajevo - Hrasno.jpg */,
+				59F18D9A27D0D6750081BA61 /* Sarajevo - Ramazan.jpg */,
+				59F18D9B27D0D6750081BA61 /* Sarajevo - SFF.jpg */,
+				59F18D9C27D0D6750081BA61 /* Sarajevo - Minaret.jpg */,
+				59F18D9D27D0D6750081BA61 /* Sarajevo - Inat Kuća.jpg */,
+				59F18D9E27D0D6750081BA61 /* Sarajevo - Vitraž.jpg */,
+				59F18D9F27D0D6750081BA61 /* Sarajevo - Kovači.jpg */,
+				59F18DA027D0D6750081BA61 /* Sarajevo - Sebilj.jpg */,
+				59F18DA127D0D6750081BA61 /* Sarajevo - Aeril Winter 2.jpg */,
+				59F18DA227D0D6750081BA61 /* Sarajevo - Zalazak.jpg */,
+				59F18DA327D0D6750081BA61 /* Sarajevo - Aeril Winter 1.jpg */,
+				59F18DA427D0D6750081BA61 /* Sarajevo - Katedrala.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59F18DA727D0D6750081BA61 /* Sarajevo - SFF.jpg in Resources */,
+				59F18DA927D0D6750081BA61 /* Sarajevo - Inat Kuća.jpg in Resources */,
+				59F18DAB27D0D6750081BA61 /* Sarajevo - Kovači.jpg in Resources */,
+				59F18DAE27D0D6750081BA61 /* Sarajevo - Zalazak.jpg in Resources */,
+				59F18DAC27D0D6750081BA61 /* Sarajevo - Sebilj.jpg in Resources */,
+				59F18DAD27D0D6750081BA61 /* Sarajevo - Aeril Winter 2.jpg in Resources */,
 				593252D627CFFC6400DE0E3B /* LaunchScreen.storyboard in Resources */,
+				59F18DA627D0D6750081BA61 /* Sarajevo - Ramazan.jpg in Resources */,
+				59F18DB027D0D6750081BA61 /* Sarajevo - Katedrala.jpg in Resources */,
 				593252D327CFFC6400DE0E3B /* Assets.xcassets in Resources */,
+				59F18DAA27D0D6750081BA61 /* Sarajevo - Vitraž.jpg in Resources */,
 				593252D127CFFC6200DE0E3B /* Main.storyboard in Resources */,
+				59F18DA827D0D6750081BA61 /* Sarajevo - Minaret.jpg in Resources */,
+				59F18DA527D0D6750081BA61 /* Sarajevo - Hrasno.jpg in Resources */,
+				59F18DAF27D0D6750081BA61 /* Sarajevo - Aeril Winter 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +200,7 @@
 				593252CE27CFFC6200DE0E3B /* ViewController.swift in Sources */,
 				593252CA27CFFC6200DE0E3B /* AppDelegate.swift in Sources */,
 				593252CC27CFFC6200DE0E3B /* SceneDelegate.swift in Sources */,
+				593252F527D00A0500DE0E3B /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
