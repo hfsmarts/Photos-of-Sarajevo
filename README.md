@@ -1,4 +1,4 @@
-# Photos-of-Sarajevo
+# Photos of Sarajevo
   <p align="left">
 Images of Sarajevo that can be shared!
   </p>
